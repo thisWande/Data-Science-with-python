@@ -1,6 +1,10 @@
 # Project Description:
-The aim of this repository: to create, collect and maintain code from course and tutorails that I have completed in Data Science. 
+The aim of this repository is to create, collect and maintain code from course and tutorails that I have completed in Data Science. 
 
-# Repository Contents:
--Supervised learning
-  - Regression Tree Model using california-housing dataset
+### Repository Contents:
+- Data Science statistical learning
+- Tree based methods
+- Managing the complexity of tree- based methods
+- Nueral networks
+- Managing the complexity of Nueral Networks
+- Hierarchical clustering
