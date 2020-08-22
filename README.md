@@ -3,7 +3,7 @@ The aim of this repository is to create, collect and maintain code from course a
 
 ### Repository Contents:
 - Data Science statistical learning
-- [Tree based methods](https://github.com/thisWande/Data-Science-with-python/blob/master/Cali-housing-notebook.ipynb)
+- [Tree based methods](https://github.com/thisWande/Data-Science-with-python/blob/housing_tree/Cali-housing-notebook.ipynb)
 - Managing the complexity of tree- based methods
 - Nueral networks
 - Managing the complexity of Nueral Networks
