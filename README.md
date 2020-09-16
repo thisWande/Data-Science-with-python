@@ -1,5 +1,5 @@
 # Project Description:
-The aim of this repository is to create, collect and maintain code from course and tutorails that I have completed in Data Science. 
+The aim of this repository is to create, collect and maintain code from course and tutorial that I have completed in Data Science. 
 
 ### Repository Contents:
 - Data Science statistical learning
